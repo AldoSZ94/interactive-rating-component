@@ -12,7 +12,6 @@ let selectedRating = null;
 
 ratingBtns.forEach((btn) => {
   btn.addEventListener("click", () => {
-    debugger;
     const isSelected = btn.getAttribute("aria-pressed") === "true";
 
     // Reinicia todos los botones.
