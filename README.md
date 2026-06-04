@@ -26,7 +26,7 @@ Se puso especial énfasis en:
 
 ## 🚀 Demo
 
-👉 Agrega aquí tu link de Netlify / Vercel / GitHub Pages
+👉 https://app.netlify.com/projects/interactive-rating-component-aldosz94/overview
 
 ---
 
