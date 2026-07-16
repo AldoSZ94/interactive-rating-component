@@ -26,7 +26,7 @@ Se puso especial énfasis en:
 
 ## 🚀 Demo
 
-👉 https://app.netlify.com/projects/interactive-rating-component-aldosz94/overview
+👉 https://interactive-rating-component-aldosz94.netlify.app/
 
 ---
 
